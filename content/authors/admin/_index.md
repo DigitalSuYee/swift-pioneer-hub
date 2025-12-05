@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Su Yee Mon
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+nick_name: Su Yee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Su Yee
+last_name: Mon
 
 # Pronouns (optional)
 pronouns: she/her
@@ -20,7 +20,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Data Scientist & Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
