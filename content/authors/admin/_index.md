@@ -23,24 +23,24 @@ superuser: true
 role: Data Scientist & Researcher
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
+#organizations:
+ # - name: GenCoin
     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:suyeemon.ml@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/BuildLore
+  - #icon: brands/x
+    #url: https://x.com/BuildLore
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/DigitalSuYee
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/su-yee-mon-ml/
+  - #icon: brands/instagram
+    #url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
