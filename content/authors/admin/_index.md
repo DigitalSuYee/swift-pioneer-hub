@@ -1,31 +1,26 @@
 ---
 # Display name
-title: Su Yee Mon
+title: "Su Yee Mon"
 
 # Name pronunciation (optional)
-nick_name: Su Yee
+nick_name: "Su Yee"
 
 # Full name (for SEO)
-first_name: Su Yee
-last_name: Mon
+first_name: "Su Yee"
+last_name: "Mon"
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: "she/her"
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: "☕️"️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist & Researcher
-
-# Organizations/Affiliations to display in Biography blox
-#organizations:
- # - name: GenCoin
-    url: https://www.example.com/
+role: "Data Scientist & Researcher"
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
