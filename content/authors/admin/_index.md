@@ -26,16 +26,13 @@ role: "Data Scientist & Researcher"
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:suyeemon.ml@gmail.com'
-    label: E-mail Me
-  - #icon: brands/x
-    #url: https://x.com/BuildLore
+    url: "mailto:suyeemon.ml@gmail.com"
+    label: "E-mail Me"
   - icon: brands/github
-    url: https://github.com/DigitalSuYee
+    url: "https://github.com/DigitalSuYee"
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/su-yee-mon-ml/
-  - #icon: brands/instagram
-    #url: https://www.instagram.com/
+    url: "https://www.linkedin.com/in/su-yee-mon-ml/"
+
 
 education:
   - area: PhD Artificial Intelligence
