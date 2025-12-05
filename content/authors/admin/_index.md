@@ -33,20 +33,10 @@ profiles:
     url: "https://www.linkedin.com/in/su-yee-mon-ml/"
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
-
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Robotics and Artificial Intelligence
+    institution: King Mongkut's Institute of Technology Ladkrabang
+    date_start: 2023-01-01
+    date_end: Present
     summary: |
       GPA: 3.8/4.0
       Courses included:
